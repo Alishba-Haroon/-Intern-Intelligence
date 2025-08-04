@@ -1,0 +1,8 @@
+aif360
+pandas
+scikit-learn
+matplotlib
+seaborn
+fairness-indicators
+tensorflow
+notebook
